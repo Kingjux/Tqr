@@ -2,7 +2,7 @@
     "name": "manjiro-sano-md",
     "description": "I am manjiro-sano-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t In case of Any Problem : www.youtube.com/jastinmtewa",
     "logo": "https://telegra.ph/file/1252ab43fa38f7b88ecf5.jpg",
-    "repository": "https://github.com/Kingjux/T-qr",
+    "repository": "https://github.com/Kingjux/Tqr",
     "keywords": ["whatsappbot", "venocyberMd", "venocyber Md bot", "Venocyber-Md-Bot", "VenocyberMdWhatsaooBot", "VenocyberWaBot","VenocyberMD","Venocyber Md Whatsapp Bot","multi device"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
